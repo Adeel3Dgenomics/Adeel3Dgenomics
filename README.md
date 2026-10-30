@@ -54,13 +54,12 @@
 
 ## 📊 SYSTEM METRICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adeel3Dgenomics&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&count_private=true" alt="GitHub stats" width="48%"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Adeel3Dgenomics&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&count_private=true" alt="GitHub stats" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeel3Dgenomics&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="GitHub streak" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel3Dgenomics&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" alt="Top languages" width="45%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel3Dgenomics&theme=minimal&bg_color=FFFFFF&color=0969DA&line=0969DA&point=24292F&hide_border=true" alt="Activity graph" width="48%"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Adeel3Dgenomics&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" alt="Top languages" width="60%"/>
 
 <br/><br/>
 
@@ -76,7 +75,7 @@
 
 ## 📡 ESTABLISH_CONNECTION
 
-<a href="mailto:muhammad.muzammal@bs.qau.edu.pk"><img src="https://img.shields.io/badge/EMAIL-0969DA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFFFFF" alt="Email"/></a>
+<a href="mailto:m.muzammal.adeel@outlook.com"><img src="https://img.shields.io/badge/EMAIL-0969DA?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=FFFFFF" alt="Email"/></a>
 <a href="https://github.com/Adeel3Dgenomics"><img src="https://img.shields.io/badge/GITHUB-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=FFFFFF" alt="GitHub"/></a>
 
 <br/><br/>
