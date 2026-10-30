@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=180&section=header"/>
-
 <img src="images/avatar.gif" width="220" alt="Adeel"/>
 
 <br/><br/>
@@ -80,8 +78,6 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/-end_of_file-FFFFFF?style=flat-square&logo=terminal&logoColor=0969DA)
+![](https://img.shields.io/badge/-end_of_file-0969DA?style=flat-square&logo=terminal&logoColor=white)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=100&section=footer"/>
