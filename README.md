@@ -15,18 +15,18 @@
 
 <br/>
 
-```ansi
+```text
 ┌──────────────────────────────────────────────────────────┐
-│  [0;34mroot@Adeel3Dgenomics[0m:[0;30m~[0m$ neofetch --bio
+│  root@Adeel3Dgenomics:~$ neofetch --bio
 │
-│  [0;34m OS[0m           : Bioinformatics.OS  (AI/Data-Science kernel)
-│  [0;34m Shell[0m        : python3 / R / bash
-│  [0;34m Uptime[0m       : building pipelines since day 1
-│  [0;34m Host[0m         : local workstation <-> HPC cluster (fir)
-│  [0;34m CPU[0m          : genomics data analysis @ full load
-│  [0;34m GPU[0m          : machine learning / predictive analytics
-│  [0;34m Memory[0m       : sequence & variant data, fully indexed
-│  [0;34m Packages[0m     : snakemake, pandas, scikit-learn, bioconductor
+│  OS           : Bioinformatics.OS  (AI/Data-Science kernel)
+│  Shell        : python3 / R / bash
+│  Uptime       : building pipelines since day 1
+│  Host         : local workstation <-> HPC cluster (fir)
+│  CPU          : genomics data analysis @ full load
+│  GPU          : machine learning / predictive analytics
+│  Memory       : sequence & variant data, fully indexed
+│  Packages     : snakemake, pandas, scikit-learn, bioconductor
 │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -58,12 +58,6 @@
 <br/>
 
 <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Adeel3Dgenomics&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" alt="Top languages" width="60%"/>
-
-<br/><br/>
-
-## 🏆 TROPHY_CASE
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adeel3Dgenomics&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="Trophy case"/>
 
 <br/><br/>
 
