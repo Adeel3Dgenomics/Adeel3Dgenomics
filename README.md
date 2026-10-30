@@ -61,6 +61,19 @@
 
 <br/><br/>
 
+## 🏆 TROPHY_CASE
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adeel3Dgenomics&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="Trophy case"/>
+
+<br/><br/>
+
+## 📰 LATEST_ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/><br/>
+
 ## 🐍 CONTRIBUTION::EXEC
 
 <picture>
