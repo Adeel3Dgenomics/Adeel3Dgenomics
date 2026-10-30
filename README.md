@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1117,100:001a00&height=180&section=header"/>
 
-<img src="images/avatar.jpg" width="150" alt="Adeel"/>
+<img src="images/avatar.gif" width="220" alt="Adeel"/>
 
 <br/><br/>
 
